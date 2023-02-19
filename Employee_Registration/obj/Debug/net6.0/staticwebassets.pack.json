@@ -1,0 +1,441 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Employee_Registration.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Employee_Registration.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls230236489.jpg",
+      "PackagePath": "staticwebassets\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls230236489.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls230255659.jpg",
+      "PackagePath": "staticwebassets\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls230255659.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls231703197.jpg",
+      "PackagePath": "staticwebassets\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls231703197.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls231817216.jpg",
+      "PackagePath": "staticwebassets\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls231817216.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls231904118.jpg",
+      "PackagePath": "staticwebassets\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls231904118.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls232039804.jpg",
+      "PackagePath": "staticwebassets\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls232039804.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls233228804.jpg",
+      "PackagePath": "staticwebassets\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls233228804.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls233300388.jpg",
+      "PackagePath": "staticwebassets\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls233300388.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls233458139.jpg",
+      "PackagePath": "staticwebassets\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls233458139.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls233525277.jpg",
+      "PackagePath": "staticwebassets\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls233525277.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls234054625.jpg",
+      "PackagePath": "staticwebassets\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls234054625.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls234108861.jpg",
+      "PackagePath": "staticwebassets\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls234108861.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls234227656.jpg",
+      "PackagePath": "staticwebassets\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls234227656.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls234313567.jpg",
+      "PackagePath": "staticwebassets\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls234313567.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls234622182.jpg",
+      "PackagePath": "staticwebassets\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls234622182.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls234636895.jpg",
+      "PackagePath": "staticwebassets\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls234636895.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls234818740.jpg",
+      "PackagePath": "staticwebassets\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls234818740.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls234833479.jpg",
+      "PackagePath": "staticwebassets\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls234833479.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls234858991.jpg",
+      "PackagePath": "staticwebassets\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls234858991.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls235034774.jpg",
+      "PackagePath": "staticwebassets\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls235034774.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls235954134.jpg",
+      "PackagePath": "staticwebassets\\Image\\depositphotos_88370500-stock-photo-mechanic-wearing-overalls235954134.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\photo-1438761681033-6461ffad8d80230050806.jfif",
+      "PackagePath": "staticwebassets\\Image\\photo-1438761681033-6461ffad8d80230050806.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\photo-1438761681033-6461ffad8d80230303805.jfif",
+      "PackagePath": "staticwebassets\\Image\\photo-1438761681033-6461ffad8d80230303805.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\photo-1438761681033-6461ffad8d80231829575.jfif",
+      "PackagePath": "staticwebassets\\Image\\photo-1438761681033-6461ffad8d80231829575.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\photo-1438761681033-6461ffad8d80232306637.jfif",
+      "PackagePath": "staticwebassets\\Image\\photo-1438761681033-6461ffad8d80232306637.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\photo-1438761681033-6461ffad8d80232606416.jfif",
+      "PackagePath": "staticwebassets\\Image\\photo-1438761681033-6461ffad8d80232606416.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\photo-1438761681033-6461ffad8d80233247378.jfif",
+      "PackagePath": "staticwebassets\\Image\\photo-1438761681033-6461ffad8d80233247378.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\photo-1438761681033-6461ffad8d80233511072.jfif",
+      "PackagePath": "staticwebassets\\Image\\photo-1438761681033-6461ffad8d80233511072.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\photo-1438761681033-6461ffad8d80233528114.jfif",
+      "PackagePath": "staticwebassets\\Image\\photo-1438761681033-6461ffad8d80233528114.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\photo-1438761681033-6461ffad8d80233615903.jfif",
+      "PackagePath": "staticwebassets\\Image\\photo-1438761681033-6461ffad8d80233615903.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\photo-1438761681033-6461ffad8d80233743137.jfif",
+      "PackagePath": "staticwebassets\\Image\\photo-1438761681033-6461ffad8d80233743137.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\photo-1438761681033-6461ffad8d80234038048.jfif",
+      "PackagePath": "staticwebassets\\Image\\photo-1438761681033-6461ffad8d80234038048.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\photo-1438761681033-6461ffad8d80234121361.jfif",
+      "PackagePath": "staticwebassets\\Image\\photo-1438761681033-6461ffad8d80234121361.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\photo-1438761681033-6461ffad8d80234754207.jfif",
+      "PackagePath": "staticwebassets\\Image\\photo-1438761681033-6461ffad8d80234754207.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\photo-1438761681033-6461ffad8d80234808934.jfif",
+      "PackagePath": "staticwebassets\\Image\\photo-1438761681033-6461ffad8d80234808934.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\photo-1438761681033-6461ffad8d80234942704.jfif",
+      "PackagePath": "staticwebassets\\Image\\photo-1438761681033-6461ffad8d80234942704.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\photo-1438761681033-6461ffad8d80235048081.jfif",
+      "PackagePath": "staticwebassets\\Image\\photo-1438761681033-6461ffad8d80235048081.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\photo-1438761681033-6461ffad8d80235056980.jfif",
+      "PackagePath": "staticwebassets\\Image\\photo-1438761681033-6461ffad8d80235056980.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\photo-1438761681033-6461ffad8d80235145561.jfif",
+      "PackagePath": "staticwebassets\\Image\\photo-1438761681033-6461ffad8d80235145561.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\shutterstock_648907024230208141.jpg",
+      "PackagePath": "staticwebassets\\Image\\shutterstock_648907024230208141.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\shutterstock_648907024230308062.jpg",
+      "PackagePath": "staticwebassets\\Image\\shutterstock_648907024230308062.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\shutterstock_648907024230740618.jpg",
+      "PackagePath": "staticwebassets\\Image\\shutterstock_648907024230740618.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\shutterstock_648907024234603172.jpg",
+      "PackagePath": "staticwebassets\\Image\\shutterstock_648907024234603172.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\Image\\shutterstock_648907024234654704.jpg",
+      "PackagePath": "staticwebassets\\Image\\shutterstock_648907024234654704.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Eranda\\source\\repos\\Employee_Registration\\Employee_Registration\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Employee_Registration.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Employee_Registration.props",
+      "PackagePath": "build\\Employee_Registration.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Employee_Registration.props",
+      "PackagePath": "buildMultiTargeting\\Employee_Registration.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Employee_Registration.props",
+      "PackagePath": "buildTransitive\\Employee_Registration.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

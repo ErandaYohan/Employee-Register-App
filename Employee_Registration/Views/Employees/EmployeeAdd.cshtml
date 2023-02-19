@@ -1,0 +1,86 @@
+﻿@model Employee_Registration.Models.AddEmployeeViewModel
+@{
+    ViewData["Title"] = "Add Employee";
+}
+<h1>Add Employee</h1>
+
+<form class="needs-validation" novalidate method="post" action="EmployeeAdd" enctype="multipart/form-data">
+  <div class="row">
+    <div class="col-md-4 mb-3">
+      <label for="validationTooltip01">First name</label>
+            <input type="text" class="form-control" id="FirstName" placeholder="First name" required asp-for="FirstName">
+            <span asp-validation-for="FirstName" style="color:red"></span>
+    </div>
+    <div class="col-md-4 mb-3">
+      <label for="validationTooltip02">Last name</label>
+            <input type="text" class="form-control" id="validationTooltip02" placeholder="Last name" required asp-for="LastName">
+            <span asp-validation-for="LastName" style="color:red"></span>
+    </div>
+    <div class="col-md-4 mb-3">
+      <label for="validationTooltipUsername">Email</label>
+      <div class="input-group">
+             <input type="email" class="form-control" id="validationTooltipUsername" placeholder="Email"  required asp-for="Emails.Email">
+             <span asp-validation-for="Emails.Email" style="color:red"></span>
+      </div>
+    </div>
+  </div>
+    <div class="row">
+        <div class="col-md-4 mb-3">
+            <label for="validationTooltip01">SSN</label>
+            <input type="number" class="form-control" id="validationTooltip01" placeholder="SSN" required asp-for="SSN">
+            <span asp-validation-for="SSN" style="color:red"></span>
+        </div>
+        <div class="col-md-4 mb-3">
+            <label for="validationTooltip02">Date Of Birth</label>
+            <input type="date" class="form-control" id="validationTooltip02" placeholder="Date Of Birth" required asp-for="DateOfBirth">
+            <span asp-validation-for="DateOfBirth" style="color:red"></span>
+        </div>
+        <div class="col-md-4 mb-3">
+            <label for="validationTooltipUsername">Mobile Number</label>
+            <div class="input-group">
+                <input type="number" class="form-control" id="validationTooltipUsername" placeholder="Mobile Number"  required asp-for="Mobile.MobileNumber">
+                <span asp-validation-for="Mobile.MobileNumber" style="color:red"></span>
+            </div>
+        </div>
+        <div class="col-md-4 mb-3">
+            <label for="validationTooltipUsername" asp-for="ImageFile">Upload Image</label>
+            <div class="input-group">
+                <input  class="form-control" id="validationTooltipUsername" placeholder="Email" asp-for="ImageFile" accept="image/*" required asp-for="Emails.Email">
+                <span asp-validation-for="ImageFile" style="color:red"></span>
+            </div>
+        </div>
+    </div>
+  <div class="row">
+    <div class="col-md-3 mb-3">
+      <label for="validationTooltip03">Address Line 1</label>
+            <input type="text" class="form-control" id="validationTooltip03" placeholder="Address Line 1" required asp-for="Address.AddressLine1">
+            <span asp-validation-for="Address.AddressLine1" style="color:red"></span>
+    </div>
+    <div class="col-md-3 mb-3">
+      <label for="validationTooltip04">Address Line 2</label>
+            <input type="text" class="form-control" id="validationTooltip04" placeholder="Address Line 2" required asp-for="Address.AddressLine2">
+            <span asp-validation-for="Address.AddressLine2" style="color:red"></span>
+    </div>
+    <div class="col-md-3 mb-3">
+      <label for="validationTooltip05">City</label>
+            <input type="text" class="form-control" id="validationTooltip05" placeholder="City" required asp-for="Address.City">
+            <span asp-validation-for="Address.City" style="color:red"></span>
+    </div>
+    <div class="col-md-3 mb-3">
+      <label for="validationTooltip05">State</label>
+            <input type="text" class="form-control" id="validationTooltip05" placeholder="State" required asp-for="Address.State">
+            <span asp-validation-for="Address.State" style="color:red"></span>
+        </div>
+    <div class="col-md-3 mb-3">
+      <label for="validationTooltip05">PostCode</label>
+            <input type="text" class="form-control" id="validationTooltip05" placeholder="PostCode" required asp-for="Address.PostalCode">
+            <span asp-validation-for="Address.PostalCode" style="color:red"></span>
+    </div>
+  </div>
+  <button class="btn btn-primary" type="submit">Submit</button>
+</form>
+
+@section scripts
+    {
+        <partial name="_ValidationScriptsPartial" />
+}

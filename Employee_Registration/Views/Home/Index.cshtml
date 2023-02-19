@@ -1,0 +1,55 @@
+﻿@model List<Employee_Registration.Models.Domain.Employee>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+</div>
+
+<table id="table_id" class="display">
+    <thead>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Phone Number</th>
+            <th>Email Name</th>
+            <th>SSN</th>
+            <th>Image</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var Employee in Model)
+        {
+            <tr data-href="Home/ViewEmployeeDetails/@Employee.EmployeeId" style="cursor:pointer">
+                <td>@Employee.FirstName</td>
+                <td>@Employee.LastName</td>
+                <td>@Employee.Mobile.MobileNumber</td>
+                <td>@Employee.Emails.Email</td>
+                <td>@Employee.SSN</td>
+                <td><img src="@("~/image/"+Employee.ImagePath)" asp-append-version="true" width="50px" height="50px" /></td>
+                <td><a href="Employees/EditEmployee/@Employee.EmployeeId">Edit</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+@section scripts{
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.2/css/jquery.dataTables.css">
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.13.2/js/jquery.dataTables.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#table_id').DataTable();
+        });
+    </script>
+    <script>
+        document.addEventListener("DOMContentLoaded",()=>{
+            const rows = document.querySelectorAll("tr[data-href]");
+            rows.forEach(row=>{
+                row.addEventListener("click",()=>{
+                    window.location.href = row.dataset.href;
+                })
+            })
+        })
+    </script>
+}

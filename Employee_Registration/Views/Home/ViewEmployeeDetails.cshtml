@@ -1,0 +1,104 @@
+﻿@model Employee_Registration.Models.Domain.Employee
+@{
+}
+<h1>View Employee Details</h1>
+
+<form class="needs-validation" action="EmployeeAdd" novalidate method="post" action="EmployeeAdd" class="mt-5" enctype="multipart/form-data">
+    <section style="background-color: #fff;">
+        <div class="container py-5">
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="card mb-4">
+                        <div class="card-body text-center">
+                            <img src="@("~/image/"+Model.ImagePath)" asp-append-version="true" alt="avatar"
+                                 class="rounded-circle img-fluid" style="width: 250px; height:250px;">                   
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-8">
+                    <div class="card mb-4">
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-sm-3">
+                                    <p class="mb-0">First Name</p>
+                                </div>
+                                <div class="col-sm-9">
+                                    <p class="text-muted mb-0">@Model.FirstName</p>
+                                </div>
+                            </div>
+                            <hr>
+                            <div class="row">
+                                <div class="col-sm-3">
+                                    <p class="mb-0">Last Name</p>
+                                </div>
+                                <div class="col-sm-9">
+                                    <p class="text-muted mb-0">@Model.LastName</p>
+                                </div>
+                            </div>
+                            <hr>
+                            <div class="row">
+                                <div class="col-sm-3">
+                                    <p class="mb-0">Date of Birth</p>
+                                </div>
+                                <div class="col-sm-9">
+                                    <p class="text-muted mb-0">@Model.DateOfBirth</p>
+                                </div>
+                            </div>
+                            <hr>
+                            <div class="row">
+                                <div class="col-sm-3">
+                                    <p class="mb-0">Mobile</p>
+                                </div>
+                                <div class="col-sm-9">
+                                    <p class="text-muted mb-0">@Model.Mobile.MobileNumber</p>
+                                </div>
+                            </div>
+                            <hr>
+                            <div class="row">
+                                <div class="col-sm-3">
+                                    <p class="mb-0">Email</p>
+                                </div>
+                                <div class="col-sm-9">
+                                    <p class="text-muted mb-0">@Model.Emails.Email</p>
+                                </div>
+                            </div>
+                            <hr>
+                            <div class="row">
+                                <div class="col-sm-3">
+                                    <p class="mb-0">SSN</p>
+                                </div>
+                                <div class="col-sm-9">
+                                    <p class="text-muted mb-0">@Model.SSN</p>
+                                </div>
+                            </div>
+                            <hr>
+                            <div class="row">
+                                <div class="col-md-3 mb-3">
+                                    <label for="validationTooltip03">Address Line 1</label>
+                                    <p class="text-muted mb-0">@Model.Address.AddressLine1</p>
+                                </div>
+                                <div class="col-md-3 mb-3">
+                                    <label for="validationTooltip03">Address Line 2</label>
+                                    <p class="text-muted mb-0">@Model.Address.AddressLine2</p>
+                                </div>
+                                <div class="col-md-3 mb-3">
+                                    <label for="validationTooltip03">City</label>
+                                    <p class="text-muted mb-0">@Model.Address.City</p>
+                                </div>
+                                <div class="col-md-3 mb-3">
+                                    <label for="validationTooltip03">PostalCode</label>
+                                    <p class="text-muted mb-0">@Model.Address.PostalCode</p>
+                                </div>
+                                <div class="col-md-3 mb-3">
+                                    <label for="validationTooltip03">State</label>
+                                    <p class="text-muted mb-0">@Model.Address.State</p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</form>
